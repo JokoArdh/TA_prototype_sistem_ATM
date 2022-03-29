@@ -2,18 +2,18 @@
 
 ### 📝 Deskripsi 
 sistem atm sederhana dengan bahasa c++ sistem prototype dibuat untuk menyelesaikan tugas akhir matakuliah struktur data yang terkandung dalam proses pembuatan dengan bahasa c++
--array
--fungsi dan prosedure
--perulangan 
+- array
+- fungsi dan prosedure
+- perulangan 
 
 ## 📝 Fitur
 Terdapat 6 jenis menu :
-1.tranfer uang
-2.menabung
-3.pearikan
-4.info data
-5.info saldo
-6.keluar
+1. Transfer uang
+2. Menabung
+3. Penarikan
+4. Info Data
+5. Info Saldo
+6. Keluar
 
 ### 👨‍💻 Tim Kelompok 2
 
@@ -36,4 +36,4 @@ untuk LOGIN PIN = 20010026
 
 
 ### 🔐 License
-Repository created 3 Maret 2022 by Joko Ardiyanto under *MIT License*
+Repository by Kelompok 2 under *MIT License*
